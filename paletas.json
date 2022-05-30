@@ -1,0 +1,74 @@
+[
+  {
+    "sabor": "Açaí com Leite Condensado",
+    "descricao": "Quam vulputate dignissim suspendisse in est ante in nibh mauris.",
+    "foto": "assets/images/acai-com-leite-condensado.PNG",
+    "preco": 10.0
+  },
+  {
+    "sabor": "Banana com Nutella",
+    "descricao": "Quam vulputate dignissim suspendisse in est ante in nibh mauris.",
+    "foto": "assets/images/banana-com-nutella.PNG",
+    "preco": 10.0
+  },
+  {
+    "sabor": "Chocolate Belga",
+    "descricao": "Quam vulputate dignissim suspendisse in est ante in nibh mauris.",
+    "foto": "assets/images/chocolate-belga.PNG",
+    "preco": 7.0
+  },
+  {
+    "sabor": "Chocolate Branco",
+    "descricao": "Quam vulputate dignissim suspendisse in est ante in nibh mauris.",
+    "foto": "assets/images/chocolate-branco.png",
+    "preco": 4.0
+  },
+  {
+    "sabor": "Chocolate Belga",
+    "descricao": "Quam vulputate dignissim suspendisse in est ante in nibh mauris.",
+    "foto": "assets/images/chocolate-belga.PNG",
+    "preco": 5.0
+  },
+  {
+    "sabor": "Coco com doce de Leite"  ,
+    "descricao": "Quam vulputate dignissim suspendisse in est ante in nibh mauris.",
+    "foto": "assets/images/coco-com-doce-de-leite.png",
+    "preco": 6.0
+  },
+  {
+    "sabor": "Coco",
+    "descricao": "Quam vulputate dignissim suspendisse in est ante in nibh mauris.",
+    "foto": "assets/images/coco.png",
+    "preco": 7.0
+  },
+  {
+    "sabor": "Cookies",
+    "descricao": "Quam vulputate dignissim suspendisse in est ante in nibh mauris.",
+    "foto": "assets/images/cookies.png",
+    "preco": 8.0
+  },
+  {
+    "sabor": "Doce de Leite com Doce de Leite",
+    "descricao": "Quam vulputate dignissim suspendisse in est ante in nibh mauris.",
+    "foto": "assets/images/doce-de-leite-com-doce-de-leite.png",
+    "preco": 9.0
+  },
+  {
+    "sabor": "Limão",
+    "descricao": "Quam vulputate dignissim suspendisse in est ante in nibh mauris.",
+    "foto": "assets/images/limao.png",
+    "preco": 10.0
+  },
+  {
+    "sabor": "Maracujá com Leite Condensado",
+    "descricao": "Quam vulputate dignissim suspendisse in est ante in nibh mauris.",
+    "foto": "assets/images/maracuja-com-leite-condensado.png",
+    "preco": 11.0
+  },
+  {
+    "sabor": "Maracujá",
+    "descricao": "Quam vulputate dignissim suspendisse in est ante in nibh mauris.",
+    "foto": "assets/images/maracuja.png",
+    "preco": 12.0
+  }
+]

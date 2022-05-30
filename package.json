@@ -1,0 +1,25 @@
+{
+  "name": "apiii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/server",
+    "start": "node src/server"
+  },
+  "keywords": [],
+  "author": "Eugenio Bufalo Rodrigues",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.4",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16",
+    "sucrase": "^3.21.0"
+  }
+}
